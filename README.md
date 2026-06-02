@@ -13,7 +13,7 @@ Google Apps Scriptを用いて、MicrosoftOfficeのWord、Excel、PowerPointをP
 2. （任意）開いたスクリプトエディタ上の「無題のプロジェクト」欄にクリックし、プロジェクト名を管理しやすいような名称に変更する。    
    <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/1b0f1cd9-3de8-491d-86a4-7ea67d58e0ef" />  
 
-3. 開いたスクリプトエディタ上のコード.gsに本リポジトリの <a href="https://github.com/kotakahashi-4u/GASApp4NotebookLMSlide2GoogleSlide/blob/main/code.gs" target="_blank">code.gs</a>(Windows: **Ctrl+Click** / Mac: **Cmd+Click**) の内容をコピーして、貼り付ける。貼り付け後は必ず、エディタ上部の保存ボタンを押下すること。  
+3. 開いたスクリプトエディタ上のコード.gsに本リポジトリの <a href="https://github.com/kotakahashi-4u/GASApp4DocumentConverter/blob/main/%E3%82%B3%E3%83%BC%E3%83%89.gs" target="_blank">コード.gs</a>(Windows: **Ctrl+Click** / Mac: **Cmd+Click**) の内容をコピーして、貼り付ける。貼り付け後は必ず、エディタ上部の保存ボタンを押下すること。  
    <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c8daf34c-baa6-49ab-a2f5-fae2be8408a2" />  
 
 4. 左側のサイドパネルより「サービス」を押下し、表示された一覧の中から「Drive API」を選択し、バージョン `v2` を追加する。
